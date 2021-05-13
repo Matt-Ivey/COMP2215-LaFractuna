@@ -12,7 +12,6 @@
 #include "font.h"
 #include "ili934x.h"
 #include "lcd.h"
-#include "math.h"
 
 lcd display;
 

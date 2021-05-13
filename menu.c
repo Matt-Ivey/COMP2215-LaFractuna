@@ -252,7 +252,7 @@ void init(void) {
 
     init_lcd();
 
-    PORTC |= SWW | SWS | SWE | SWN;
+    PORTC |=  SWS | SWN;
     PORTE |= SWC;
 
     TCCR0A = _BV(WGM01); 
