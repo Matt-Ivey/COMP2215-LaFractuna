@@ -22,7 +22,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
-#include "lcd/lcd.h"
 
 // This was a nice layout for ackermann values, unfortunately it wont be seen
 void display_ack(void) {
