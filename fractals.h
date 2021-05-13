@@ -22,7 +22,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
-#include "lcd/lcd.h"
 #include "math.h"
 
 // displays your choice of fractals with fun arg
